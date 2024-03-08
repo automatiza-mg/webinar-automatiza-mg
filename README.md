@@ -1,6 +1,3 @@
-# TESTE AULA MKDOCS
+# Webinar Automatiza-MG
 
-Aqui estamos fazendo algumas simulações bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
+Repositório criado para organizar códigos criados durante Webinar Automatiza-MG.
